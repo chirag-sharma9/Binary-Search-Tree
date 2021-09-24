@@ -1,0 +1,26 @@
+
+Project Description: Developed a Binary Search list ADT
+Author: Chirag Sharma
+Student ID #: 811525277
+Course: CSCI 2720 (Data Structures)
+Professor: Dr.Peng
+Language: C++
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+External Sources Referenced:
+
+C++ Plus Data Structures 6th Edition
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Instructions:
+
+-- To compile and link:
+   $ make
+
+-- To compile, link and run:
+   $ make run
+   
+-- To clean directory:
+   $ make clean
